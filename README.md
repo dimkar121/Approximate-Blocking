@@ -21,4 +21,5 @@ The experimental evaluation showcases that our proposed algorithms scale efficie
 ## Running the artifact
 The source has been tested with Python version 3.8
 - Clone the repo
-- The `requirements.txt` file lists all Python modules that the source file `SCD.py` depends on. These modules can be installed using: `pip3 install -r requirements.txt`.
+- The `requirements.txt` file lists all Python modules that the source file `SCD.py` depends on. These modules can be installed using:
+  `pip3 install -r requirements.txt`.
