@@ -1,4 +1,4 @@
-# Approximate-Blocking
+# Approximate Blocking
 This is the artifact for the manuscript:
 
 "A Suite of Efficient Randomized Algorithms for Streaming Record Linkage", 
