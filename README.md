@@ -16,3 +16,9 @@ The operation of our algorithms rely on simple random choices, instead of utiliz
 which ensure that the probability of inactive blocks and older records to remain in main memory decays in order to free space for more promising blocks and fresher records, respectively. 
 We also introduce an algorithm that performs approximate blocking to tackle the problem of misspellings and typos present in the blocking keys. 
 The experimental evaluation showcases that our proposed algorithms scale efficiently to data streams by providing certain accuracy guarantees.
+
+
+## Running the artifact
+The source has been tested with Python version 3.8
+- Clone the repo
+- The `requirements.txt` file lists all Python modules that the source file `SCD.py` depends on. These modules can be installed using: `pip3 install -r requirements.txt`.
