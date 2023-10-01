@@ -5,7 +5,7 @@ This is one of the artifacts that accompany the manuscript:
 
 co-authored by D. Karapiperis (IHU), C. Tjortjis (IHU), and V. Verykios (HOU).
 
-The other atifact can be found at [https://github.com/dimkar121/ExpBlock]
+The other atifact can be found at [here](https://github.com/dimkar121/ExpBlock).
 
 ## Abstract
 Organizations leverage massive volumes of information and new types of data to generate unprecedented insights and improve their outcomes. 
