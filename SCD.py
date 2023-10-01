@@ -174,8 +174,9 @@ if __name__ == '__main__':
 
       blockingTime += (end - st)
       st = time.time()
-      #termination = matching1()
-      termination = topK()
+      #You can use either method matching() or topK()  
+      termination = matching()  
+      #termination = topK()
       end = time.time()
       matchingTime += (end - st)
       if termination:
