@@ -1,10 +1,11 @@
 # Approximate Blocking
-This is the artifact for the manuscript:
+This is one of the artifacts that accompany the manuscript:
 
 "A Suite of Efficient Randomized Algorithms for Streaming Record Linkage", 
 
 co-authored by D. Karapiperis (IHU), C. Tjortjis (IHU), and V. Verykios (HOU).
 
+The other atifact can be found at [https://github.com/dimkar121/ExpBlock]
 
 ## Abstract
 Organizations leverage massive volumes of information and new types of data to generate unprecedented insights and improve their outcomes. 
